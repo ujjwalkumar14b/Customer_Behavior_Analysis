@@ -1,6 +1,8 @@
 # Customer Behavior Analysis
 An end-to-end data analysis project exploring customer shopping patterns, demographic spending habits, discount utilization, and loyalty behaviors using SQL, Python (Jupyter Notebook), and Power BI.
 
+![Deployment Overview](deployment.png)
+
 ## Project Overview
 Understanding customer behavior is essential for optimizing marketing strategies, product placements, and retention programs. This project analyzes transactional customer data to answer key business questions around customer segmentation, revenue drivers, product popularity, and subscription trends.
 
